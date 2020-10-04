@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Consumo de servicio rest de la pagina reqres para prueba." skipped="0" tests="1" time="4.81" timestamp="2020-10-02 09:23:53"><testcase name="consumir servicio rest"><failure message="expected:&lt;200&gt; but was:&lt;201&gt;" type="java.lang.AssertionError">expected:&lt;200&gt; but was:&lt;201&gt;</failure><system-err>expected:&lt;200&gt; but was:&lt;201&gt;&#13;
+steps.PruebaCompraStep.verificarDatosServicio(PruebaCompraStep.java:26)&#13;
+definitions.PruebaCompraDefinition.verificarDatos(PruebaCompraDefinition.java:25)&#13;
+✽.se verifica que el 200, fuchsia rose y StatusCode Weekly sean correctos(src/test/resources/features/PruebaCompra.feature:8)&#13;
+</system-err></testcase></testsuite>
